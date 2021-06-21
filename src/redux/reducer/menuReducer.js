@@ -2,6 +2,7 @@ import {UPDATE_STATE} from "../type/menuType";
 
 const initialState = {
     open: false,
+    col: 0.
 };
 
 export function menuReducer(state = initialState, action) {

@@ -7,7 +7,7 @@ import MainPage from "./component/MainPage";
 function App() {
   return (
     <div className="App d-flex">
-        <div className="collapse">
+        <div className="coll">
           <Collapsee/>
         </div>
         <div className="mainPage">
